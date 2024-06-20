@@ -1,16 +1,31 @@
-## Hi there 👋
+----------------------------------------------------------------------------
 
-<!--
-**Jeann-Victor/Jeann-Victor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome!
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm (Jeann Victor)!
+
+ 
+
+:computer: I'm Computer Science Student!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2024 Goals: Be the best version ofmyself.
+
+ 
+
+## About me
+
+Linkedin = https://www.linkedin.com/in/jeann-victor-batista-350235315/
+
+Instagram = https://www.instagram.com/jeann19x/
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
+----------------------------------------------------------------------------------
