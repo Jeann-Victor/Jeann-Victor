@@ -14,7 +14,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2024 Goals: Be the best version ofmyself.
+:outbox_tray: 2024 Goals: Be the best version of myself.
 
  
 
